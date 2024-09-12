@@ -1,7 +1,7 @@
 # power_bi_sales_analysis_v3
 
-### Arquivo v2 está com erro
-### Utilizar arquivo v3
+Arquivo v2 está com erro
+Utilizar arquivo v3
 
 ## Descrição
 Este repositório contém um relatório de vendas e lucros desenvolvido em Power BI como parte de um desafio. O objetivo principal do relatório é visualizar e analisar os dados de vendas e lucros por diferentes períodos e segmentos de produto.
